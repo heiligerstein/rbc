@@ -1,5 +1,24 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+/app/Config
+/app/tmp
+/lib/Cake/Console/Templates/skel/tmp/
+/plugins
+/vendors
+/build
+/dist
+.DS_Store
+tags
+=======
+=======
+>>>>>>> 46eda106862372def5d8c04c0c209efb3eae5003
 tmp/*
 config/database.php
 app/tmp/*
 app/config/database.php
+<<<<<<< HEAD
 !empty
+>>>>>>> 46eda106862372def5d8c04c0c209efb3eae5003
+=======
+!empty
+>>>>>>> 46eda106862372def5d8c04c0c209efb3eae5003
